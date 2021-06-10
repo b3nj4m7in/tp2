@@ -1,8 +1,11 @@
 /*
-TP#2 ANIMACION DE CREDITOS
+TP#2 ANIMACION DE 
+
 juego elejido : the last of us
+
 Legajo : 88271/9
 */
+
 int x;
 float y;
 PImage imagen; 
